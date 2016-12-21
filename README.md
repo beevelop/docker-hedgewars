@@ -1,3 +1,8 @@
-[![](https://badge.imagelayers.io/beevelop/hedgewars:latest.svg)](https://imagelayers.io/?images=beevelop/hedgewars:latest 'Get your own badge on imagelayers.io')
+[![Pulls](https://shields.beevelop.com/docker/pulls/beevelop/hedgewars.svg?style=flat-square)](https://links.beevelop.com/d-hedgewars)
+[![Layers](https://shields.beevelop.com/docker/image/layers/beevelop/hedgewars/latest.svg?style=flat-square)](https://links.beevelop.com/d-hedgewars)
+[![Size](https://shields.beevelop.com/docker/image/size/beevelop/hedgewars/latest.svg?style=flat-square)](https://links.beevelop.com/d-hedgewars)
+[![Release](https://shields.beevelop.com/github/release/beevelop/docker-hedgewars.svg?style=flat-square)](https://github.com/beevelop/docker-hedgewars/releases)
+![Badges](https://shields.beevelop.com/badge/badges-7-brightgreen.svg?style=flat-square)
+[![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
-# Hedgewars-Server based on Ubuntu 15.10 (Wily Werewolf)
+# Hedgewars-Server based on Ubuntu 16.04
