@@ -1,7 +1,5 @@
 FROM beevelop/base
 
-MAINTAINER Maik Hummel <m@ikhummel.com>
-
 RUN apt-get update -qq && \
     apt-get install -y -q netbase hedgewars
 
