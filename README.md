@@ -5,4 +5,8 @@
 ![Badges](https://shields.beevelop.com/badge/badges-7-brightgreen.svg?style=flat-square)
 [![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
-# Hedgewars-Server based on Ubuntu 16.04
+# Hedgewars-Server based on Ubuntu 20.04.
+
+```sh
+docker run -d -p 46631 --name hedgewars beevelop/hedgewars
+```
